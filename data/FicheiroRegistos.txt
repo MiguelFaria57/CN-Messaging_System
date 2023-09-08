@@ -1,0 +1,3 @@
+jmanuel,193.136.212.131,privatepass,yes,no,yes
+a,193.136.212.194,s,yes,yes,no
+q,193.136.212.130,e,yes,yes,no
